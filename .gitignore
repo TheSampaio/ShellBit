@@ -1,0 +1,9 @@
+# Directories
+.vs/
+ShellBit/bin/
+ShellBit/obj/
+packages/
+
+# Files
+*.user
+*.meta
